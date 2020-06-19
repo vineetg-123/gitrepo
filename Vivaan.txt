@@ -1,5 +1,3 @@
 Vivaan is a good boy
 he studies in class 3-C
 His school is JKPS
-this is a test file
-Vivaan want to test vi editor rollback
